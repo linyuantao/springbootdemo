@@ -1,0 +1,3 @@
+resources:
+  imageServer: http://test.image.com
+  emailServer: http://test.email.com
