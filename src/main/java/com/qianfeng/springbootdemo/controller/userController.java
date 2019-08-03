@@ -20,6 +20,9 @@ public class userController {
     private Resource resource;
 
 
+    public void test(){}
+
+
 
  /*   @Value("${fileServer.path}")
     public String fileServer;
